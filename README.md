@@ -2,7 +2,7 @@
 
 This repository contains code and data for:
 
-Rauh A.S., Hedemark G., Tesei, G. & Lindorff-Larsen, K. (2025) _A coarse-grained model for simulations of phosphorylated disordered proteins_
+Rauh A.S., Hedemark G., Tesei, G. & Lindorff-Larsen, K. (2025) _A coarse-grained model for simulations of phosphorylated disordered proteins_ [bioRxiv](https://doi.org/10.1101/2025.03.19.644261)
 
 The simulation data can be retrieved from the Electronic Research Data Archive at UCPH (ERDA): [here](https://sid.erda.dk/cgi-sid/ls.py?share_id=eWfx9y6b2c)
 
