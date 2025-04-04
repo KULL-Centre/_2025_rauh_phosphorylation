@@ -6,7 +6,7 @@ Rauh A.S., Hedemark G., Tesei, G. & Lindorff-Larsen, K. (2025) _A coarse-grained
 
 The simulation data can be retrieved from the Electronic Research Data Archive at UCPH (ERDA): [here](https://sid.erda.dk/cgi-sid/ls.py?share_id=eWfx9y6b2c)
 
-## Running CALVADOS simulations with PEG
+## Running CALVADOS simulations with phosphorylated residues
 PEG simulations can be run either with the code provided here or using the [CALVADOS package](https://github.com/KULL-Centre/CALVADOS)
 
 ## File structure
